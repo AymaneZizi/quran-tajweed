@@ -159,3 +159,6 @@ The following are renderings of the decision trees used to determine where each 
 <img alt="silent start decision tree" src="/output/rule_tree_images/silent.start.png" height="250"/>|<img alt="silent end decision tree" src="/output/rule_tree_images/silent.end.png" height="250"/>
 
 
+### other sources 
+[A Rule Based Annotaiton System to Extract Tajweed Rules 2013](https://www.researchgate.net/publication/268977776_A_Rule_Based_Annotaiton_System_to_Extract_Tajweed_Rules)
+
